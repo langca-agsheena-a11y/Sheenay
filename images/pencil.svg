@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300"><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff6d6"/><stop offset="1" stop-color="#fde8a0"/></linearGradient><filter id="sh" x="-20%" y="-30%" width="140%" height="170%"><feDropShadow dx="0" dy="9" stdDeviation="7" flood-color="#0f172a" flood-opacity=".3"/></filter>
+<linearGradient id="p1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fde047"/><stop offset=".5" stop-color="#facc15"/><stop offset="1" stop-color="#ca8a04"/></linearGradient>
+<linearGradient id="p2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f8fafc"/><stop offset=".5" stop-color="#a8b3c2"/><stop offset="1" stop-color="#64748b"/></linearGradient></defs><rect width="400" height="300" fill="url(#bg)"/><g transform="rotate(-26 200 150)" filter="url(#sh)">
+<polygon points="48,150 112,132 112,168" fill="#e8c697"/>
+<polygon points="48,150 74,142 74,158" fill="#2b2f38"/>
+<polygon points="74,142 112,132 112,141" fill="#d9b080" opacity=".6"/>
+<rect x="112" y="132" width="190" height="36" fill="url(#p1)"/>
+<rect x="112" y="132" width="190" height="8" fill="#fef08a" opacity=".7"/>
+<rect x="112" y="160" width="190" height="8" fill="#a16207" opacity=".55"/>
+<rect x="112" y="147" width="190" height="2" fill="#a16207" opacity=".35"/>
+<rect x="302" y="132" width="26" height="36" fill="url(#p2)"/>
+<rect x="308" y="132" width="2.5" height="36" fill="#334155" opacity=".4"/><rect x="316" y="132" width="2.5" height="36" fill="#334155" opacity=".4"/>
+<rect x="328" y="134" width="28" height="32" rx="8" fill="#f9a8d4"/>
+<rect x="332" y="137" width="20" height="5" rx="2.5" fill="#fff" opacity=".45"/></g></svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300"><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e0ecff"/><stop offset="1" stop-color="#bcd2f7"/></linearGradient><filter id="sh" x="-20%" y="-30%" width="140%" height="170%"><feDropShadow dx="0" dy="9" stdDeviation="7" flood-color="#0f172a" flood-opacity=".3"/></filter>
+<linearGradient id="b1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#60a5fa"/><stop offset=".55" stop-color="#2563eb"/><stop offset="1" stop-color="#1e3a8a"/></linearGradient>
+<linearGradient id="b2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f1f5f9"/><stop offset=".5" stop-color="#94a3b8"/><stop offset="1" stop-color="#475569"/></linearGradient>
+<linearGradient id="b3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3b5bdb"/><stop offset="1" stop-color="#172554"/></linearGradient></defs><rect width="400" height="300" fill="url(#bg)"/><g transform="rotate(-26 200 150)" filter="url(#sh)">
+<polygon points="40,150 70,142 70,158" fill="url(#b2)"/><circle cx="41" cy="150" r="3" fill="#1e293b"/>
+<polygon points="70,141 116,136 116,164 70,159" fill="url(#b2)"/>
+<rect x="116" y="135" width="176" height="30" rx="7" fill="url(#b1)"/>
+<rect x="116" y="135" width="44" height="30" rx="5" fill="#1d4ed8" opacity=".55"/>
+<rect x="164" y="135" width="3" height="30" fill="#0f172a" opacity=".25"/>
+<rect x="124" y="140" width="150" height="5" rx="2.5" fill="#fff" opacity=".4"/>
+<rect x="292" y="133" width="52" height="34" rx="9" fill="url(#b3)"/>
+<rect x="284" y="124" width="82" height="8" rx="4" fill="url(#b2)"/>
+<rect x="352" y="124" width="10" height="26" rx="4" fill="url(#b2)"/>
+<rect x="298" y="139" width="40" height="4" rx="2" fill="#fff" opacity=".25"/></g></svg>
